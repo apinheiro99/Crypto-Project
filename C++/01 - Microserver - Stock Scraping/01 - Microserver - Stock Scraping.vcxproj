@@ -132,6 +132,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01 - Microserver - Stock Scraping.cpp" />
+    <ClCompile Include="PostgreSQL Connection.cpp" />
+    <ClCompile Include="Reading .ini file.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
